@@ -20,8 +20,12 @@
   "license": "ISC",
   "dependencies": {
     "@zoomus/websdk": "^1.7.10",
+    "axios": "^0.20.0",
+    "express": "^4.17.1",
     "jquery": "^3.4.1",
+    "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.14",
+    "ngrok": "^3.3.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-redux": "7.1.0",
